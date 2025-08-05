@@ -58,8 +58,7 @@ An app that helps users be prepared for trips. Users can track a list of essenti
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![](wireframe.jpeg)
 
 ### [BONUS] Digital Wireframes & Mockups
 
