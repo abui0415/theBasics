@@ -38,6 +38,8 @@ An app that helps users be prepared for trips. Users can track a list of essenti
 **Optional Nice-to-have Stories**
 
 * Users can add a custom item to the essentials list
+* Users can create a custom activity with it's own essential list
+* Users can create an itinerary by selecting activities and ordering them
 
 ### 2. Screen Archetypes
 
