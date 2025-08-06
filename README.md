@@ -77,7 +77,7 @@ An app that helps users be prepared for trips. Users can track a list of essenti
   </div>
   
 Completed Features
-- [x]Users can view a list of activities
+- [x] Users can view a list of activities
 - [x] Users can select an activity to view an essentials list for that activity
 - [x] Users can check off items on an activity's essential list (not saveable yet)
 
