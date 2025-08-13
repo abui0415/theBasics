@@ -16,6 +16,9 @@ class EssentialsViewController: UIViewController, UITableViewDataSource {
         let cell = essentialsTableView.dequeueReusableCell(withIdentifier: "EssentialCell", for: indexPath) as! EssentialCell
         let item = activity.essentials[indexPath.row]
         cell.essentialname.text = item
+        let key = "button_\(item)"
+        let savedState = UserDefaults.standard.bool(forKey: key)
+        cell.markedButton.isSelected = savedState
         return cell
     }
     

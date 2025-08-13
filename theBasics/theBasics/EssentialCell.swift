@@ -13,8 +13,12 @@ class EssentialCell: UITableViewCell {
     @IBOutlet weak var markedButton: UIButton!
     @IBAction func markButtonTapped(_ sender: UIButton) {
         sender.isSelected = !sender.isSelected
+        UserDefaults.standard.set(sender.isSelected, forKey: buttonKey)
     }
     
+    var buttonKey: String {
+        return "button_\(essentialname.text ?? "")"
+    }
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
