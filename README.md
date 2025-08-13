@@ -69,17 +69,18 @@ An app that helps users be prepared for trips. Users can track a list of essenti
 ## Schema 
 
 <div>
-    <a href="https://www.loom.com/share/20d42e229bfc4aa9a7db786d761279de">
+    <a href="https://www.loom.com/share/701c7e1ef58640cfb02bcdfea53811dc">
     </a>
-    <a href="https://www.loom.com/share/20d42e229bfc4aa9a7db786d761279de">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/20d42e229bfc4aa9a7db786d761279de-d475ed5c634a14b8-full-play.gif">
+    <a href="https://www.loom.com/share/701c7e1ef58640cfb02bcdfea53811dc">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/701c7e1ef58640cfb02bcdfea53811dc-9de9fbea65aa79be-full-play.gif">
     </a>
   </div>
   
 Completed Features
 - [x] Users can view a list of activities
 - [x] Users can select an activity to view an essentials list for that activity
-- [x] Users can check off items on an activity's essential list (not saveable yet)
+- [x] Users can check off items on an activity's essential list
+- [x] Items that are checked off are saved  
 
 ### Models
 
